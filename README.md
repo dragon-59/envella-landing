@@ -1,2 +1,3 @@
-# envella-landing
-Coming soon site for Envella
+# Envella Landing Page
+
+This is the coming soon landing page for Envella, a smart home management platform.
